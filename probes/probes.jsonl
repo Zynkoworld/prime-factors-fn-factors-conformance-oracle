@@ -1,0 +1,8 @@
+{"input": 1, "expect": [], "task": "prime-factors", "lang": "python"}
+{"input": 2, "expect": [2], "task": "prime-factors", "lang": "python"}
+{"input": 3, "expect": [3], "task": "prime-factors", "lang": "python"}
+{"input": 9, "expect": [3, 3], "task": "prime-factors", "lang": "python"}
+{"input": 4, "expect": [2, 2], "task": "prime-factors", "lang": "python"}
+{"input": 8, "expect": [2, 2, 2], "task": "prime-factors", "lang": "python"}
+{"input": 27, "expect": [3, 3, 3], "task": "prime-factors", "lang": "python"}
+{"input": 625, "expect": [5, 5, 5, 5], "task": "prime-factors", "lang": "python"}
